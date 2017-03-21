@@ -1,0 +1,12 @@
+org/demo/datastructures/SinglyLinkedListTest.class
+org/demo/utilities/TestJUNITBrowser.class
+org/demo/utilities/TestGenericComparator.class
+org/demo/utilities/NumberRangeCounterTest.class
+org/demo/utilities/AllTests.class
+org/demo/utilities/UnitDTO.class
+org/demo/utilities/TestHexAsciiConversion.class
+org/demo/utilities/TestPrimeNumberChecker.class
+org/demo/utilities/TestLogger.class
+org/demo/utilities/ExceptionThrower.class
+org/demo/utilities/BasicAnnotationTest.class
+org/demo/utilities/TestXMLCase.class

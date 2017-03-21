@@ -1,0 +1,12 @@
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/TestLogger.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/BasicAnnotationTest.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/ExceptionThrower.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/TestPrimeNumberChecker.java
+/var/lib/jenkins/demo/src/test/java/org/demo/datastructures/SinglyLinkedListTest.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/TestJUNITBrowser.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/AllTests.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/TestHexAsciiConversion.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/TestGenericComparator.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/UnitDTO.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/TestXMLCase.java
+/var/lib/jenkins/demo/src/test/java/org/demo/utilities/NumberRangeCounterTest.java
